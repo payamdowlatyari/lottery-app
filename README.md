@@ -1,0 +1,2 @@
+# lottery-app
+React application
